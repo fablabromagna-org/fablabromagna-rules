@@ -11,7 +11,7 @@ Le regole sono descritte nel Wiki del presente repository, e sono suscettibili d
 
 In praticolare vi consigliamo di consultare le seguenti sezioni:
 
-* come partecipare ai progetti
-* come contribuire da utente esterno
-* regole sui nomi dei repository
+* [come partecipare ai progetti](https://github.com/fablabromagna-org/fablabromagna-rules/wiki/come-partecipare-ai-progetti)
+* [come contribuire da utente esterno](https://github.com/fablabromagna-org/fablabromagna-rules/wiki/come-contribuire-da-esterno)
+* [regole sui nomi dei repository](https://github.com/fablabromagna-org/fablabromagna-rules/wiki/regole-nomi-repository)
 
